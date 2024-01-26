@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Area { 
     public static void main(String[] args) {
         // int a,b,c;
-        // test for git
+
         int a,b,c;
         double s,area;
         Scanner scan=new Scanner(System.in);
