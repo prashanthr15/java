@@ -111,22 +111,7 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)      
         A.class
         Area.class
-        B.class
-        Calculation.class
-        Calculation.java
-        Demo.class
-        Demo.java
-        Demoo.class
-        Demoo.java
-        Fibonacci1.class
-        Fibonacci1.java
-        Sample.java
-        Sample1
-        Sample1.class
-        Sample1.java
-        Sample2.class
-        Sample2.java
-        sample.class
+        
 
 nothing added to commit but untracked files present (use "git add" to track)
 
