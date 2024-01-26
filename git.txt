@@ -610,6 +610,7 @@ git branch -M main
 until here
 |
 to cretae connection between local and remmote use ssh one
+===========================================================
 git remote add origin git@github.com:prashanthr15/git-course.git
 |
 to push the code from local to remote use
